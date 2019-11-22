@@ -1,0 +1,17 @@
+baseurl: /ceshi
+author: 木子z
+
+# 分页配置
+paginate: 4
+
+# 指定要使用的插件(GitHub上面默认就安装了分页插件)
+plugins: [jekyll-paginate]
+
+# 友链列表
+friends: [
+  {name: 百度, url: https://www.baidu.com},
+  {name: 大帅哥, url: https://www.lizelong.com},
+  {name: 不要脸, url: https://www.buyaolian.com},
+  {name: 阿里巴巴, url: https://www.1688.com},
+  {name: 腾讯, url: https://www.qq.com},
+]
